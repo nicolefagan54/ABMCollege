@@ -2,6 +2,11 @@
 
 A purple-themed daily planner, habit tracker, and mood & health logger built with React.
 
+## Screenshots
+
+![Daily Life Organizer Hero](screenshots/hero.png)
+![Daily Life Organizer App](screenshots/app.png)
+
 ## Features
 
 - ✅ Today’s tasks (add, complete, persistent via localStorage)
